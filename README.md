@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=110&section=header&text=About%20Me&fontSize=24&fontColor=ffffff" alt="About Me section" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=110&section=header&text=About%20Me&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=38" alt="About Me section" />
 
 ### 👨‍💻 About Me
 
@@ -83,7 +83,7 @@ writing: medium.com/@naveen11695
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=header&text=Enterprise%20Highlights&fontSize=22&fontColor=ffffff" alt="Enterprise section" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=header&text=Enterprise%20Highlights&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=36" alt="Enterprise section" />
 
 ### 🏢 Enterprise Highlights
 
@@ -99,7 +99,7 @@ writing: medium.com/@naveen11695
 | **TAB Mobile App** | [Tabcorp](https://www.tabcorp.com.au) | Australia's leading wagering & gaming platform | `Flutter` `Dart` `BLoC` `Clean Architecture` `CI/CD` |
 | **Tata Sky OTT App** | Tata Sky | 10L+ users · 450+ live channels | `Kotlin` `Java` `Firebase` `MVVM` `Retrofit` |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5A00D,50:2496ED,100:B5B5B6&height=110&section=header&text=Homelab%20%C2%B7%20Kometa&fontSize=22&fontColor=ffffff" alt="Homelab section" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5A00D,50:2496ED,100:B5B5B6&height=110&section=header&text=Homelab%20%C2%B7%20Kometa&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=36" alt="Homelab section" />
 
 ### 🏠 Homelab & Kometa
 
@@ -124,7 +124,7 @@ writing: medium.com/@naveen11695
 | [![kometa-overlay-configs](https://img.shields.io/badge/kometa--overlay--configs-YAML_Configs-7F52FF?style=for-the-badge&logo=yaml&logoColor=white)](https://github.com/Naveen11695/kometa-overlay-configs) | Overlay configuration files |
 | [![kometa-overlay-assets](https://img.shields.io/badge/kometa--overlay--assets-Image_Assets-E5A00D?style=for-the-badge&logo=plex&logoColor=white)](https://github.com/Naveen11695/kometa-overlay-assets) | Custom overlay images for Plex |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7F52FF&height=110&section=header&text=Experience%20%C2%B7%20Credentials&fontSize=22&fontColor=ffffff" alt="Experience section" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7F52FF&height=110&section=header&text=Experience%20%C2%B7%20Credentials&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=36" alt="Experience section" />
 
 ### 💼 Career Journey
 
@@ -185,7 +185,7 @@ writing: medium.com/@naveen11695
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=110&section=header&text=Tech%20Stack&fontSize=24&fontColor=ffffff" alt="Tech stack section" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=110&section=header&text=Tech%20Stack&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=38" alt="Tech stack section" />
 
 ### 🛠️ Tech Stack
 
@@ -201,7 +201,7 @@ writing: medium.com/@naveen11695
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=90&section=header&text=Open%20Source&fontSize=24&fontColor=ffffff" alt="Open source section" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=90&section=header&text=Open%20Source&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=38" alt="Open source section" />
 
 ### 🚀 Open Source Projects
 
@@ -211,7 +211,7 @@ writing: medium.com/@naveen11695
 | [![ToDo](https://img.shields.io/badge/ToDo--App-Cubit_Demo-7F52FF?style=flat-square&logo=flutter&logoColor=white)](https://github.com/Naveen11695/ToDo-App) | Cubit & Hydrated Bloc state management | [Blog post](https://medium.com/@naveen11695/working-with-cubits-and-hydrated-cubits-517dc9a65726) |
 | [![Motion](https://img.shields.io/badge/Motion--layout--Sample-⭐_2-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/Naveen11695/Motion-layout-Sample) | MotionLayout animation demos | `Kotlin` `Android` |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,100:000000&height=110&section=header&text=Medium%20Blogs&fontSize=24&fontColor=ffffff" alt="Medium section" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,100:000000&height=110&section=header&text=Medium%20Blogs&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=38" alt="Medium section" />
 
 ### ✍️ Medium Blogs
 
@@ -243,13 +243,13 @@ writing: medium.com/@naveen11695
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:58A6FF,100:1f6feb&height=150&section=footer&text=Let%27s%20Connect!&fontSize=28&fontColor=ffffff" alt="Connect footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:58A6FF,100:1f6feb&height=150&section=footer&text=Let%27s%20Connect!&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=48" alt="Connect footer" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-verma-359a78127/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naveen11695)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveen11695)
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:58A6FF,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:58A6FF,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff&fontAlign=50&fontAlignY=36" alt="Footer wave" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=Naveen11695&color=58a6ff&style=for-the-badge&labelColor=1a1b27)
 
