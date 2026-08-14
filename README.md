@@ -1,16 +1,20 @@
 <div align="center">
 
-**Senior Software Engineer specializing in Flutter, Android & React Native — plus Synology homelab & Plex automation.**
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Naveen%20Verma&fontSize=48&fontColor=ffffff&stroke=58A6FF&strokeWidth=2&animation=twinkling" alt="Header banner" />
 
-*Enterprise mobile by day · Homelab & Kometa by night*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&lines=Senior+Software+Engineer+%40+TO+THE+NEW;Flutter+%C2%B7+Android+%C2%B7+React+Native;Synology+Homelab+%C2%B7+Kometa+%C2%B7+Medium+Writer" alt="Typing animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Naveen+Verma;Senior+Software+Engineer+%40+TO+THE+NEW;Homelab+%26+Kometa+Enthusiast" alt="Typing SVG" />
+<img src="https://go.skillicons.dev/icons?i=flutter,dart,kotlin,android,react,firebase,docker,git&perline=8" alt="Tech skills icons" />
+
+<br/>
+
+*Enterprise mobile by day · Homelab & Kometa by night*
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=80&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&animation=twinkling" alt="About Me section" />
 
 ### 👨‍💻 About Me
 
@@ -51,6 +55,8 @@ writing: medium.com/@naveen11695
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=80&section=header&text=Enterprise%20Highlights&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Enterprise section" />
+
 ### 🏢 Enterprise Highlights
 
 | Project | Client | Role | Stack |
@@ -60,9 +66,15 @@ writing: medium.com/@naveen11695
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5A00D,50:2496ED,100:B5B5B6&height=80&section=header&text=Homelab%20%26%20Kometa&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Homelab section" />
+
 ### 🏠 Homelab & Kometa
 
 <div align="center">
+
+<img src="https://go.skillicons.dev/icons?i=docker,git&perline=4" alt="Homelab tools" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -85,6 +97,8 @@ writing: medium.com/@naveen11695
 | [**kometa-overlay-assets**](https://github.com/Naveen11695/kometa-overlay-assets) | Overlay image assets for Plex libraries |
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7F52FF&height=80&section=header&text=Experience%20%26%20Credentials&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Experience section" />
 
 ### 💼 Experience
 
@@ -120,19 +134,7 @@ writing: medium.com/@naveen11695
 
 <div align="center">
 
-#### Mobile
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-#### Homelab & Infra
-<img src="https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://go.skillicons.dev/icons?i=flutter,dart,kotlin,android,react,firebase,docker,git,yaml&perline=9" alt="Full tech stack" />
 
 </div>
 
@@ -147,6 +149,8 @@ writing: medium.com/@naveen11695
 | [**Motion-layout-Sample**](https://github.com/Naveen11695/Motion-layout-Sample) | MotionLayout animation demos | ⭐ 2 · `Kotlin` `Android` |
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,100:000000&height=80&section=header&text=Medium%20Blogs&fontSize=28&fontColor=ffffff&animation=twinkling" alt="Medium section" />
 
 ### ✍️ Medium Blogs
 
@@ -182,11 +186,16 @@ writing: medium.com/@naveen11695
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-verma-359a78127/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naveen11695)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:58A6FF,100:1f6feb&height=120&section=footer&text=Let's%20Connect!&fontSize=32&fontColor=ffffff&animation=scaleIn" alt="Connect footer" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1f6feb&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-verma-359a78127/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naveen11695)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveen11695)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:58A6FF,100:0d1117&height=100&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=24&fontColor=ffffff" alt="Footer wave" />
 
 </div>
