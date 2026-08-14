@@ -160,7 +160,6 @@ writing: medium.com/@naveen11695
 
 </div>
 
-<br/>
 | Role | Company | Period |
 | :--- | :--- | :--- |
 | **Senior Software Engineer** | [TO THE NEW](https://www.linkedin.com/company/tothenew) | Oct 2022 – Present |
