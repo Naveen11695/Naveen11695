@@ -15,7 +15,10 @@
 <img src="https://img.shields.io/badge/Millions_of_Users-00C853?style=for-the-badge&labelColor=1a1b27" />
 
 <br/>
+
+
 *Enterprise mobile by day · Homelab & Kometa by night*
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-verma-359a78127/)
 [![Medium](https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naveen11695)
