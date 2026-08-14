@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Naveen%20Verma&fontSize=48&fontColor=ffffff&stroke=58A6FF&strokeWidth=2&animation=twinkling" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Naveen%20Verma&fontSize=42&fontColor=ffffff&stroke=58A6FF&strokeWidth=2&animation=twinkling" alt="Header banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&lines=Senior+Software+Engineer+%40+TO+THE+NEW;Flutter+%C2%B7+Android+%C2%B7+React+Native;Synology+Homelab+%C2%B7+Kometa+%C2%B7+Medium+Writer" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Senior+Software+Engineer+%40+TO+THE+NEW;Flutter+%C2%B7+Android+%C2%B7+React+Native;Homelab+%C2%B7+Kometa+%C2%B7+Medium+Writer" alt="Typing animation" width="100%" />
 
 <br/>
 
-<img src="https://go.skillicons.dev/icons?i=flutter,dart,kotlin,android,react,firebase,docker,git&perline=8" alt="Tech skills icons" />
+<img src="https://go.skillicons.dev/icons?i=flutter,dart,kotlin,android,react,firebase,docker,git&perline=4" alt="Tech skills icons" width="100%" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=80&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&animation=twinkling" alt="About Me section" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=110&section=header&text=About%20Me&fontSize=24&fontColor=ffffff&animation=twinkling" alt="About Me section" width="100%" />
 
 ### 👨‍💻 About Me
 
@@ -55,7 +55,7 @@ writing: medium.com/@naveen11695
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5A00D,50:2496ED,100:B5B5B6&height=80&section=header&text=Homelab%20%26%20Kometa&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Homelab section" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5A00D,50:2496ED,100:B5B5B6&height=110&section=header&text=Homelab%20and%20Kometa&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Homelab section" width="100%" />
 
 ### 🏠 Homelab & Kometa
 
@@ -87,7 +87,7 @@ writing: medium.com/@naveen11695
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7F52FF&height=80&section=header&text=Experience%20%26%20Credentials&fontSize=26&fontColor=ffffff&animation=twinkling" alt="Experience section" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7F52FF&height=110&section=header&text=Experience%20and%20Credentials&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Experience section" width="100%" />
 
 ### 💼 Experience
 
@@ -123,7 +123,7 @@ writing: medium.com/@naveen11695
 
 <div align="center">
 
-<img src="https://go.skillicons.dev/icons?i=flutter,dart,kotlin,android,react,firebase,docker,git,yaml&perline=9" alt="Full tech stack" />
+<img src="https://go.skillicons.dev/icons?i=flutter,dart,kotlin,android,react,firebase,docker,git,yaml&perline=5" alt="Full tech stack" width="100%" />
 
 </div>
 
@@ -139,7 +139,7 @@ writing: medium.com/@naveen11695
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,100:000000&height=80&section=header&text=Medium%20Blogs&fontSize=28&fontColor=ffffff&animation=twinkling" alt="Medium section" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,100:000000&height=110&section=header&text=Medium%20Blogs&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Medium section" width="100%" />
 
 ### ✍️ Medium Blogs
 
@@ -175,7 +175,7 @@ writing: medium.com/@naveen11695
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:58A6FF,100:1f6feb&height=120&section=footer&text=Let's%20Connect!&fontSize=32&fontColor=ffffff&animation=scaleIn" alt="Connect footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:58A6FF,100:1f6feb&height=150&section=footer&text=Let%27s%20Connect!&fontSize=28&fontColor=ffffff&animation=scaleIn" alt="Connect footer" width="100%" />
 
 <br/>
 
@@ -185,6 +185,6 @@ writing: medium.com/@naveen11695
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:58A6FF,100:0d1117&height=100&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=24&fontColor=ffffff" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:58A6FF,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff" alt="Footer wave" width="100%" />
 
 </div>
