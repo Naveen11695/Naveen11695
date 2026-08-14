@@ -33,23 +33,28 @@ focus: Flutter · Android · React Native · Synology Homelab · Kometa
 writing: medium.com/@naveen11695
 ```
 
+- 💼 **Senior Software Engineer** at [TO THE NEW](https://www.linkedin.com/company/tothenew)
+- 🏢 **Core Flutter developer** on [Tabcorp's TAB platform](https://www.tabcorp.com.au) — sports betting & wagering at scale
+- 🎬 **Kometa maintainer** — open-source Plex automation ([kometa-overlay-stack](https://github.com/Naveen11695/kometa-overlay-stack))
+- ✍️ **Technical writer** — Flutter, mobile security & homelab on [Medium](https://medium.com/@naveen11695)
+- 🏆 **Star Performer** — 4× TO THE NEW Mobility Competency Meet (2020–2023)
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🚀 Builder**
-- Senior Software Engineer at [TO THE NEW](https://www.linkedin.com/company/tothenew)
-- Core Flutter developer on [Tabcorp TAB](https://www.tabcorp.com.au)
+- Enterprise Flutter & Android at scale
+- Tabcorp TAB · Australia's #1 wagering app
 - Tata Sky OTT · 10L+ users · 450+ channels
-- 4× Star Performer · TO THE NEW Mobility Meet
 
 </td>
 <td width="50%" valign="top">
 
 **🌙 Explorer**
-- [Kometa maintainer](https://github.com/Naveen11695/kometa-overlay-stack) — Plex overlay automation
-- Synology homelab · Docker · Pi-hole · Twingate
-- Technical writer on [Medium](https://medium.com/@naveen11695)
+- Synology homelab · Docker · Pi-hole
+- Kometa Plex overlay pipeline maintainer
+- Technical writer on Medium
 
 </td>
 </tr>
