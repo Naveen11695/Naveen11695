@@ -2,7 +2,7 @@
 
 **Senior Mobile Engineer building secure, scalable Flutter & Android apps for enterprise.**
 
-*6+ years · Technical writer · TO THE NEW*
+*6+ years · 4+ years at TO THE NEW · Technical writer*
 
 <br/>
 
@@ -20,14 +20,23 @@ title: Senior Software Engineer
 company: TO THE NEW
 location: Delhi, India
 experience: 6+ years
+education: MCA · BCA (GGSIPU)
 focus: Flutter · Android · App Security · State Management
-certification: Android — Xperia Technologies
 ```
 
 - 💼 **Senior Software Engineer** at [TO THE NEW](https://www.linkedin.com/company/tothenew) — enterprise mobile apps with Flutter & Android
 - 🔐 **Published on mobile app security** — application security in a digital-first world
 - ✍️ **Technical writer** — Flutter architecture, state management & mobile security
-- 🏆 **Star Performer** at TO THE NEW (Jun '23 · Dec '22 · Jun '22 · Dec '20)
+- 🏆 **Star Performer** at TO THE NEW — 4× Mobility Competency Meet (2020–2023)
+
+<br/>
+
+### 💡 What I Bring
+
+- **Production mobile apps** — 6+ years across enterprise Flutter & Android projects
+- **Security-aware development** — published on mobile AppSec; certified in Google AI & AWS
+- **Clear communication** — technical writer with articles on Medium & TO THE NEW Blog
+- **Consistent excellence** — 4× Star Performer at TO THE NEW
 
 <br/>
 
@@ -44,7 +53,36 @@ certification: Android — Xperia Technologies
 | Role | Company | Period |
 | :--- | :--- | :--- |
 | **Senior Software Engineer** | [TO THE NEW](https://www.linkedin.com/company/tothenew) | Oct 2022 – Present |
+| **Software Engineer** | [TO THE NEW](https://www.linkedin.com/company/tothenew) | Dec 2020 – Nov 2022 |
 | **Android Developer** | Agnos Developers | Sep 2017 – Oct 2018 |
+
+<br/>
+
+### 🎓 Education
+
+| Degree | Institution | Period |
+| :--- | :--- | :--- |
+| **MCA**, Computer Science | [JIMS Rohini](https://www.linkedin.com/school/jagan-institute-of-management-studies) (GGSIPU) | 2017 – 2020 |
+| **BCA**, Computer Science | [Maharaja Surajmal Institute](https://www.linkedin.com/school/maharaja-surajmal-institute) (GGSIPU) | 2014 – 2017 |
+
+<br/>
+
+### 📜 Certifications
+
+| Certification | Issuer | Year |
+| :--- | :--- | :--- |
+| **AI Coding — Professional Developers** | [Coursera](https://www.coursera.org/account/accomplishments/specialization/Q2ABWFFMV41T) | 2026 |
+| **Google AI** | [Google / Coursera](https://www.coursera.org/account/accomplishments/professional-cert/4OG6IK4XT98N) | 2026 |
+| **AWS Technical Professional** | Amazon Web Services | 2020 |
+| **AWS Business Professional** | Amazon Web Services | 2020 |
+| **Android Certification** | Xperia Technologies | 2016 |
+
+<br/>
+
+### 🏅 Honors & Awards
+
+- 🌟 **Star Performer** — TO THE NEW Mobility Competency Meet (Jun '23 · Dec '22 · Jun '22 · Dec '20)
+- 🥉 **2nd Runner-up** — Smart Village Hackathon Karnataka (IBM · NABARD · NASSCOM) · 2018
 
 <br/>
 
@@ -71,9 +109,9 @@ certification: Android — Xperia Technologies
 | :--- | :--- | :--- |
 | [**kometa-overlay-stack**](https://github.com/Naveen11695/kometa-overlay-stack) | End-to-end Plex overlay pipeline | `Docker` · Active 2026 |
 | [**Notes-Android-Application**](https://github.com/Naveen11695/Notes-Android-Application) | Cloud notes app with Firebase | ⭐ 6 · `Java` `Firebase` |
-| [**ToDo-App**](https://github.com/Naveen11695/ToDo-App) | Cubit & Hydrated Bloc demo | [Blog post](https://medium.com/@naveen11695/working-with-cubits-and-hydrated-cubits-517dc9a65726) |
-| [**PocketGuard**](https://github.com/Naveen11695/PocketGuard) | Daily transaction tracker | `Flutter` `Dart` |
+| [**ToDo-App**](https://github.com/Naveen11695/ToDo-App) | Cubit & Hydrated Bloc state management demo | [Blog post](https://medium.com/@naveen11695/working-with-cubits-and-hydrated-cubits-517dc9a65726) |
 | [**Motion-layout-Sample**](https://github.com/Naveen11695/Motion-layout-Sample) | MotionLayout animation demos | ⭐ 2 · `Kotlin` `Android` |
+| [**bhukkd**](https://github.com/Naveen11695/bhukkd) | Food & restaurant discovery app | ⭐ 3 · `Flutter` `Dart` |
 
 <br/>
 
@@ -81,7 +119,7 @@ certification: Android — Xperia Technologies
 
 - 📄 [**Safeguarding Your Mobile Apps in a Digital-First World**](https://www.tothenew.com/blog/application-security/) — TO THE NEW Blog
 - 📱 [**Beyond ListView: Why You Should Start Using SliverList in Flutter**](https://medium.com/@naveen11695/beyond-listview-why-you-should-start-using-sliverlist-in-flutter-d294986d2b3d) — Medium
-- 🏠 [**Setting Up Twingate on Synology NAS**](https://medium.com/@naveen11695/comprehensive-guide-to-setting-up-a-twingate-reverse-proxy-on-synology-nas-57d310873764) — Medium
+- 📱 [**Demystifying Freezed Annotations in Flutter**](https://medium.com/@naveen11695/demystifying-freezed-annotations-mastering-data-modeling-for-complex-state-in-flutter-908d0dd1a29e) — Medium
 
 <br/>
 
