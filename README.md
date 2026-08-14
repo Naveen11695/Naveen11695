@@ -4,13 +4,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=120&lines=Senior+Software+Engineer+%40+TO+THE+NEW;Flutter+%C2%B7+Android+%C2%B7+React+Native;Homelab+%C2%B7+Kometa+%C2%B7+Medium+Writer" alt="Typing animation" />
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,react,firebase,docker,git&theme=dark&perline=8" alt="Tech skills icons" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,react,firebase,docker,git&theme=dark&perline=4" alt="Tech skills icons" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/5%2B_Years-Experience-58A6FF?style=for-the-badge&labelColor=1a1b27" />
 <img src="https://img.shields.io/badge/Enterprise-Mobile-7F52FF?style=for-the-badge&labelColor=1a1b27" />
+<br/>
 <img src="https://img.shields.io/badge/4%C3%97_Star_Performer-FFD700?style=for-the-badge&labelColor=1a1b27" />
 <img src="https://img.shields.io/badge/Millions_of_Users-00C853?style=for-the-badge&labelColor=1a1b27" />
 
+<br/>
 *Enterprise mobile by day · Homelab & Kometa by night*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-verma-359a78127/)
