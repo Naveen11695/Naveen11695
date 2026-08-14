@@ -29,6 +29,7 @@ writing: medium.com/@naveen11695
 ```
 
 - 💼 **Senior Software Engineer** at [TO THE NEW](https://www.linkedin.com/company/tothenew) — enterprise Flutter & Android apps at scale
+- 🏢 **Core Flutter developer** on Tabcorp's TAB betting platform — Australia's leading wagering & gaming app
 - 📱 **Cross-platform mobile development** — Flutter, Android & React Native for high-traffic production apps
 - 🏠 **Homelab builder** — Synology NAS, Docker, Pi-hole, Twingate & self-hosted services
 - 🎬 **Kometa maintainer** — open-source Plex overlay pipeline ([kometa-overlay-stack](https://github.com/Naveen11695/kometa-overlay-stack))
@@ -39,7 +40,7 @@ writing: medium.com/@naveen11695
 
 ### 💡 What I Bring
 
-- **Enterprise mobile at scale** — Flutter & Android apps serving millions of users
+- **Enterprise mobile at scale** — Flutter & Android apps serving millions of users (Tabcorp TAB, Tata Sky OTT)
 - **Clean Architecture & state management** — BLoC, GetX, MVVM, reusable components & modular UI
 - **Homelab & infra** — Synology NAS, Docker stacks, secure remote access & media automation
 - **Security-aware & certified** — AppSec author · Google AI · AWS · Android certified
@@ -48,10 +49,21 @@ writing: medium.com/@naveen11695
 
 ### 🎯 Currently Focused On
 
-- Production Flutter features for enterprise mobile platforms
+- Production Flutter features for Tabcorp's TAB mobile platform
 - **Kometa overlay ecosystem** — configs, assets & Docker stack for Plex
 - **Synology homelab** — self-hosted media, networking & automation
 - Writing on [Medium](https://medium.com/@naveen11695) about Flutter & homelab
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=header&text=Enterprise%20Highlights&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Enterprise section" />
+
+### 🏢 Enterprise Highlights
+
+| Project | Client | Role | Stack |
+| :--- | :--- | :--- | :--- |
+| **TAB Mobile App** | [Tabcorp](https://www.tabcorp.com.au) | Core Flutter Developer | `Flutter` `Dart` `BLoC` `Clean Architecture` `CI/CD` |
+| **Tata Sky OTT App** | Tata Sky | Android Developer | `Kotlin` `Java` `Firebase` `MVVM` `Retrofit` |
 
 <br/>
 
