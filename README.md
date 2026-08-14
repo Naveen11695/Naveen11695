@@ -30,7 +30,6 @@
 name: Naveen Verma
 title: Senior Software Engineer
 company: TO THE NEW
-location: Delhi, India
 experience: 5+ years
 focus: Flutter · Android · React Native · Synology Homelab · Kometa
 writing: medium.com/@naveen11695
