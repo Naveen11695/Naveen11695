@@ -1,20 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Naveen%20Verma&fontSize=42&fontColor=ffffff&stroke=58A6FF&strokeWidth=2&animation=twinkling" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Naveen%20Verma&fontSize=46&fontColor=ffffff&stroke=58A6FF&strokeWidth=2&animation=twinkling" alt="Header banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Senior+Software+Engineer+%40+TO+THE+NEW;Flutter+%C2%B7+Android+%C2%B7+React+Native;Homelab+%C2%B7+Kometa+%C2%B7+Medium+Writer" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=120&lines=Senior+Software+Engineer+%40+TO+THE+NEW;Flutter+%C2%B7+Android+%C2%B7+React+Native;Homelab+%C2%B7+Kometa+%C2%B7+Medium+Writer" alt="Typing animation" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,react,firebase,docker,git&theme=dark&perline=8" alt="Tech skills icons" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,react,firebase,docker,git&perline=4" alt="Tech skills icons" />
+<img src="https://img.shields.io/badge/5%2B_Years-Experience-58A6FF?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Enterprise-Mobile-7F52FF?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/4%C3%97_Star_Performer-FFD700?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Millions_of_Users-00C853?style=for-the-badge&labelColor=1a1b27" />
 
-<br/>
+<br/><br/>
 
 *Enterprise mobile by day · Homelab & Kometa by night*
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-verma-359a78127/)
+[![Medium](https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naveen11695)
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=110&section=header&text=About%20Me&fontSize=24&fontColor=ffffff&animation=twinkling" alt="About Me section" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=24,58A6FF,1a1b27&height=100&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&animation=twinkling" alt="About Me section" />
 
 ### 👨‍💻 About Me
 
@@ -28,31 +40,58 @@ focus: Flutter · Android · React Native · Synology Homelab · Kometa
 writing: medium.com/@naveen11695
 ```
 
-- 💼 **Senior Software Engineer** at [TO THE NEW](https://www.linkedin.com/company/tothenew) — enterprise Flutter & Android apps at scale
-- 🏢 **Core Flutter developer** on Tabcorp's TAB betting platform — Australia's leading wagering & gaming app
-- 📱 **Cross-platform mobile development** — Flutter, Android & React Native for high-traffic production apps
-- 🏠 **Homelab builder** — Synology NAS, Docker, Pi-hole, Twingate & self-hosted services
-- 🎬 **Kometa maintainer** — open-source Plex overlay pipeline ([kometa-overlay-stack](https://github.com/Naveen11695/kometa-overlay-stack))
-- ✍️ **Technical writer** on [Medium](https://medium.com/@naveen11695) — Flutter, mobile security & homelab guides
-- 🏆 **Star Performer** at TO THE NEW — 4× Mobility Competency Meet (2020–2023)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🚀 Builder**
+- Enterprise Flutter & Android at scale
+- Tabcorp TAB · Australia's #1 wagering app
+- Tata Sky OTT · 10L+ users · 450+ channels
+
+</td>
+<td width="50%" valign="top">
+
+**🌙 Explorer**
+- Synology homelab · Docker · Pi-hole
+- Kometa Plex overlay pipeline maintainer
+- Technical writer on Medium
+
+</td>
+</tr>
+</table>
+
+- 💼 **Senior Software Engineer** at [TO THE NEW](https://www.linkedin.com/company/tothenew)
+- 🏢 **Core Flutter developer** on [Tabcorp's TAB platform](https://www.tabcorp.com.au) — sports betting & wagering at scale
+- 🎬 **Kometa maintainer** — open-source Plex automation ([kometa-overlay-stack](https://github.com/Naveen11695/kometa-overlay-stack))
+- ✍️ **Technical writer** — Flutter, mobile security & homelab on [Medium](https://medium.com/@naveen11695)
+- 🏆 **Star Performer** — 4× TO THE NEW Mobility Competency Meet (2020–2023)
 
 <br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💡 What I Bring
 
-- **Enterprise mobile at scale** — Flutter & Android apps serving millions of users (Tabcorp TAB, Tata Sky OTT)
-- **Clean Architecture & state management** — BLoC, GetX, MVVM, reusable components & modular UI
-- **Homelab & infra** — Synology NAS, Docker stacks, secure remote access & media automation
-- **Security-aware & certified** — AppSec author · Google AI · AWS · Android certified
+- **Enterprise mobile** — millions of users across TAB & Tata Sky OTT
+- **Clean Architecture** — BLoC, GetX, MVVM, modular UI
+- **CI/CD pipelines** — BuildKite, Agile delivery at scale
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
 ### 🎯 Currently Focused On
 
-- Production Flutter features for Tabcorp's TAB mobile platform
-- **Kometa overlay ecosystem** — configs, assets & Docker stack for Plex
-- **Synology homelab** — self-hosted media, networking & automation
-- Writing on [Medium](https://medium.com/@naveen11695) about Flutter & homelab
+- Production Flutter for **Tabcorp TAB**
+- **Kometa overlay ecosystem** — configs, assets & Docker stack
+- **Synology homelab** — media, networking & automation
+- Writing on **Medium** about Flutter & homelab
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -60,10 +99,19 @@ writing: medium.com/@naveen11695
 
 ### 🏢 Enterprise Highlights
 
-| Project | Client | Role | Stack |
+<div align="center">
+
+<img src="https://img.shields.io/badge/Tabcorp-TAB_Mobile_App-00A651?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Tata_Sky-OTT_Platform-E50914?style=for-the-badge&logo=androidtv&logoColor=white" />
+
+</div>
+
+<br/>
+
+| Project | Client | Impact | Stack |
 | :--- | :--- | :--- | :--- |
-| **TAB Mobile App** | [Tabcorp](https://www.tabcorp.com.au) | Core Flutter Developer | `Flutter` `Dart` `BLoC` `Clean Architecture` `CI/CD` |
-| **Tata Sky OTT App** | Tata Sky | Android Developer | `Kotlin` `Java` `Firebase` `MVVM` `Retrofit` |
+| **TAB Mobile App** | [Tabcorp](https://www.tabcorp.com.au) | Australia's leading wagering & gaming platform | `Flutter` `Dart` `BLoC` `Clean Architecture` `CI/CD` |
+| **Tata Sky OTT App** | Tata Sky | 10L+ users · 450+ live channels | `Kotlin` `Java` `Firebase` `MVVM` `Retrofit` |
 
 <br/>
 
@@ -73,35 +121,45 @@ writing: medium.com/@naveen11695
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,git&perline=4" alt="Homelab tools" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark&perline=6" alt="Homelab tools" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Plex-E5A00D?style=for-the-badge&logo=plex&logoColor=white" />
-<img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" />
-<img src="https://img.shields.io/badge/Kometa-58A6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Synology-NAS-B5B5B6?style=for-the-badge&logo=synology&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Plex-Media-E5A00D?style=for-the-badge&logo=plex&logoColor=white" />
+<img src="https://img.shields.io/badge/Pi--hole-DNS-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" />
+<img src="https://img.shields.io/badge/Twingate-VPN-00B4D8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kometa-Overlays-58A6FF?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-**Synology homelab** — NAS, Docker, Pi-hole, Twingate VPN & self-hosted media services.
-
-**Kometa overlay pipeline** — end-to-end Plex automation:
+**End-to-end Plex overlay pipeline** — posterizarr → UMTK → animetafill → Kometa → imageMaid
 
 | Repo | Description |
 | :--- | :--- |
-| [**kometa-overlay-stack**](https://github.com/Naveen11695/kometa-overlay-stack) | Docker stack: posterizarr → UMTK → animetafill → Kometa → imageMaid |
-| [**kometa-overlay-configs**](https://github.com/Naveen11695/kometa-overlay-configs) | Overlay configuration files for Kometa |
-| [**kometa-overlay-assets**](https://github.com/Naveen11695/kometa-overlay-assets) | Overlay image assets for Plex libraries |
+| [![kometa-overlay-stack](https://img.shields.io/badge/kometa--overlay--stack-Docker_Stack-58A6FF?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Naveen11695/kometa-overlay-stack) | Full Docker automation stack |
+| [![kometa-overlay-configs](https://img.shields.io/badge/kometa--overlay--configs-YAML_Configs-7F52FF?style=for-the-badge&logo=yaml&logoColor=white)](https://github.com/Naveen11695/kometa-overlay-configs) | Overlay configuration files |
+| [![kometa-overlay-assets](https://img.shields.io/badge/kometa--overlay--assets-Image_Assets-E5A00D?style=for-the-badge&logo=plex&logoColor=white)](https://github.com/Naveen11695/kometa-overlay-assets) | Custom overlay images for Plex |
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7F52FF&height=110&section=header&text=Experience%20%C2%B7%20Credentials&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Experience section" />
 
-### 💼 Experience
+### 💼 Career Journey
+
+```mermaid
+timeline
+    title My Professional Path
+    2017 : Android Developer @ Agnos
+    2020 : Software Engineer @ TO THE NEW
+    2022 : Senior Software Engineer @ TO THE NEW
+         : Tabcorp TAB · Tata Sky OTT
+    2024 : Kometa Open Source · Homelab
+         : Medium Technical Writing
+```
 
 | Role | Company | Period |
 | :--- | :--- | :--- |
@@ -113,41 +171,59 @@ writing: medium.com/@naveen11695
 
 ### 📜 Certifications
 
-| Certification | Issuer | Year |
-| :--- | :--- | :--- |
-| **Google AI** | Google | 2026 |
-| **AI Coding — Professional Developers** | Coursera | 2026 |
-| **Flutter Development Bootcamp** | Udemy | 2021 |
-| **AWS Technical Professional** | Amazon Web Services | 2020 |
-| **Flutter Certification** | Udemy | 2019 |
-| **Android Certification** | Xperia Technologies | 2016 |
-
-<br/>
-
-### 🏅 Honors & Awards
-
-- 🌟 **Star Performer** — TO THE NEW Mobility Competency Meet (Jun '23 · Dec '22 · Jun '22 · Dec '20)
-- 🥉 **2nd Runner-up** — Smart Village Hackathon Karnataka (IBM · NABARD · NASSCOM) · 2018
-
-<br/>
-
-### 🛠️ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,react,firebase,docker,git,yaml&perline=5" alt="Full tech stack" />
+<img src="https://img.shields.io/badge/Google_AI-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Coding-Coursera_2026-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-Bootcamp_Udemy_2021-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Technical_2020-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-Certified_2019-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-Xperia_2016-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
 </div>
 
 <br/>
 
+### 🏅 Honors & Awards
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Star_Performer-4%C3%97_TO_THE_NEW-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hackathon-2nd_Runner_Up_2018-C0C0C0?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=sliced&color=gradient&customColorList=24,58A6FF,1a1b27&height=90&section=header&text=Tech%20Stack&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Tech stack section" />
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,react,firebase&theme=dark&perline=6" alt="Mobile stack" />
+
+<br/>
+
+**Infra & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,yaml,github&theme=dark&perline=5" alt="Infra stack" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=90&section=header&text=Open%20Source&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Open source section" />
+
 ### 🚀 Open Source Projects
 
 | Project | Description | Highlights |
 | :--- | :--- | :--- |
-| [**Notes-Android-Application**](https://github.com/Naveen11695/Notes-Android-Application) | Cloud notes app with Firebase | ⭐ 6 · `Java` `Firebase` |
-| [**ToDo-App**](https://github.com/Naveen11695/ToDo-App) | Cubit & Hydrated Bloc state management demo | [Blog post](https://medium.com/@naveen11695/working-with-cubits-and-hydrated-cubits-517dc9a65726) |
-| [**Motion-layout-Sample**](https://github.com/Naveen11695/Motion-layout-Sample) | MotionLayout animation demos | ⭐ 2 · `Kotlin` `Android` |
+| [![Notes](https://img.shields.io/badge/Notes--Android--Application-⭐_6-58A6FF?style=flat-square&logo=android&logoColor=white)](https://github.com/Naveen11695/Notes-Android-Application) | Cloud notes app with Firebase | `Java` `Firebase` |
+| [![ToDo](https://img.shields.io/badge/ToDo--App-Cubit_Demo-7F52FF?style=flat-square&logo=flutter&logoColor=white)](https://github.com/Naveen11695/ToDo-App) | Cubit & Hydrated Bloc state management | [Blog post](https://medium.com/@naveen11695/working-with-cubits-and-hydrated-cubits-517dc9a65726) |
+| [![Motion](https://img.shields.io/badge/Motion--layout--Sample-⭐_2-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/Naveen11695/Motion-layout-Sample) | MotionLayout animation demos | `Kotlin` `Android` |
 
 <br/>
 
@@ -157,7 +233,7 @@ writing: medium.com/@naveen11695
 
 <div align="center">
 
-[![Medium](https://img.shields.io/badge/Read%20all%20articles%20on%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naveen11695)
+[![Medium](https://img.shields.io/badge/Read_all_articles_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naveen11695)
 
 </div>
 
@@ -195,8 +271,12 @@ writing: medium.com/@naveen11695
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naveen11695)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveen11695)
 
-<br/>
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:58A6FF,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff" alt="Footer wave" />
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=Naveen11695&color=58a6ff&style=for-the-badge&labelColor=1a1b27)
 
 </div>
