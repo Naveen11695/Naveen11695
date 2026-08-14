@@ -1,12 +1,12 @@
 <div align="center">
 
-**Senior Mobile Engineer building secure, scalable Flutter & Android apps for enterprise.**
+**Senior Software Engineer specializing in Flutter, Android & React Native for enterprise-scale mobile apps.**
 
-*6+ years · 4+ years at TO THE NEW · Technical writer*
+*Clean Architecture · CI/CD · 5+ years · TO THE NEW*
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Naveen+Verma;Senior+Mobile+Engineer+%40+TO+THE+NEW" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Naveen+Verma;Senior+Software+Engineer+%40+TO+THE+NEW" alt="Typing SVG" />
 
 </div>
 
@@ -19,32 +19,46 @@ name: Naveen Verma
 title: Senior Software Engineer
 company: TO THE NEW
 location: Delhi, India
-experience: 6+ years
+experience: 5+ years
 education: MCA · BCA (GGSIPU)
-focus: Flutter · Android · App Security · State Management
+focus: Flutter · Android · React Native · Clean Architecture
 ```
 
-- 💼 **Senior Software Engineer** at [TO THE NEW](https://www.linkedin.com/company/tothenew) — enterprise mobile apps with Flutter & Android
+- 💼 **Senior Software Engineer** at [TO THE NEW](https://www.linkedin.com/company/tothenew) — scalable cross-platform mobile apps for enterprise clients
+- 🏢 **Core Flutter developer** on Tabcorp's TAB betting platform — Australia's leading wagering & gaming app
 - 🔐 **Published on mobile app security** — application security in a digital-first world
-- ✍️ **Technical writer** — Flutter architecture, state management & mobile security
+- ✍️ **Technical writer** on [Medium](https://medium.com/@naveen11695) & [TO THE NEW Blog](https://www.tothenew.com/blog/author/naveen-verma/)
 - 🏆 **Star Performer** at TO THE NEW — 4× Mobility Competency Meet (2020–2023)
 
 <br/>
 
 ### 💡 What I Bring
 
-- **Production mobile apps** — 6+ years across enterprise Flutter & Android projects
-- **Security-aware development** — published on mobile AppSec; certified in Google AI & AWS
-- **Clear communication** — technical writer with articles on Medium & TO THE NEW Blog
-- **Consistent excellence** — 4× Star Performer at TO THE NEW
+- **Enterprise mobile at scale** — Flutter & Android apps serving millions of users (Tabcorp TAB, Tata Sky OTT)
+- **Clean Architecture & state management** — BLoC, GetX, MVVM, reusable components & modular UI
+- **Full delivery ownership** — REST APIs, Firebase, CI/CD (BuildKite), Agile/Scrum, code reviews & production support
+- **Security-aware & certified** — AppSec author · Google AI · AWS · Android certified
 
 <br/>
 
 ### 🎯 Currently Focused On
 
-- Shipping production Flutter & Android apps at TO THE NEW
-- Writing about mobile security and Flutter best practices
-- Building open-source media automation tooling ([kometa-overlay-stack](https://github.com/Naveen11695/kometa-overlay-stack))
+- Building and maintaining production Flutter features for Tabcorp's TAB mobile platform
+- Writing about mobile security and Flutter architecture best practices
+- Open-source media automation tooling ([kometa-overlay-stack](https://github.com/Naveen11695/kometa-overlay-stack))
+
+<br/>
+
+### 🏢 Enterprise Highlights
+
+| Project | Client | Role | Stack |
+| :--- | :--- | :--- | :--- |
+| **TAB Mobile App** | [Tabcorp](https://www.tabcorp.com.au) | Core Flutter Developer | `Flutter` `Dart` `BLoC` `Clean Architecture` `CI/CD` |
+| **Tata Sky OTT App** | Tata Sky | Android Developer | `Kotlin` `Java` `Firebase` `MVVM` `Retrofit` |
+
+*Tabcorp — Australia's leading wagering & gaming company. TAB app delivers horse racing, sports betting, live odds & secure payments.*
+
+*Tata Sky OTT — 10L+ users, 450+ TV channels, on-demand streaming across 7 languages.*
 
 <br/>
 
@@ -54,16 +68,16 @@ focus: Flutter · Android · App Security · State Management
 | :--- | :--- | :--- |
 | **Senior Software Engineer** | [TO THE NEW](https://www.linkedin.com/company/tothenew) | Oct 2022 – Present |
 | **Software Engineer** | [TO THE NEW](https://www.linkedin.com/company/tothenew) | Dec 2020 – Nov 2022 |
-| **Android Developer** | Agnos Developers | Sep 2017 – Oct 2018 |
+| **Android Developer** (Part-time) | Agnos Developers | Sep 2017 – Jan 2019 |
 
 <br/>
 
 ### 🎓 Education
 
-| Degree | Institution | Period |
+| Degree | Institution | Year |
 | :--- | :--- | :--- |
-| **MCA**, Computer Science | [JIMS Rohini](https://www.linkedin.com/school/jagan-institute-of-management-studies) (GGSIPU) | 2017 – 2020 |
-| **BCA**, Computer Science | [Maharaja Surajmal Institute](https://www.linkedin.com/school/maharaja-surajmal-institute) (GGSIPU) | 2014 – 2017 |
+| **MCA**, Computer Science | [JIMS Rohini](https://www.linkedin.com/school/jagan-institute-of-management-studies) (GGSIPU) | 2020 |
+| **BCA**, Computer Science | [Maharaja Surajmal Institute](https://www.linkedin.com/school/maharaja-surajmal-institute) (GGSIPU) | 2017 |
 
 <br/>
 
@@ -71,10 +85,11 @@ focus: Flutter · Android · App Security · State Management
 
 | Certification | Issuer | Year |
 | :--- | :--- | :--- |
-| **AI Coding — Professional Developers** | [Coursera](https://www.coursera.org/account/accomplishments/specialization/Q2ABWFFMV41T) | 2026 |
-| **Google AI** | [Google / Coursera](https://www.coursera.org/account/accomplishments/professional-cert/4OG6IK4XT98N) | 2026 |
+| **Google AI** | Google | 2026 |
+| **AI Coding — Professional Developers** | Coursera | 2026 |
+| **Flutter Development Bootcamp** | Udemy | 2021 |
 | **AWS Technical Professional** | Amazon Web Services | 2020 |
-| **AWS Business Professional** | Amazon Web Services | 2020 |
+| **Flutter Certification** | Udemy | 2019 |
 | **Android Certification** | Xperia Technologies | 2016 |
 
 <br/>
@@ -90,20 +105,20 @@ focus: Flutter · Android · App Security · State Management
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
 <br/>
 
-### 🚀 Featured Projects
+### 🚀 Open Source Projects
 
 | Project | Description | Highlights |
 | :--- | :--- | :--- |
@@ -111,7 +126,6 @@ focus: Flutter · Android · App Security · State Management
 | [**Notes-Android-Application**](https://github.com/Naveen11695/Notes-Android-Application) | Cloud notes app with Firebase | ⭐ 6 · `Java` `Firebase` |
 | [**ToDo-App**](https://github.com/Naveen11695/ToDo-App) | Cubit & Hydrated Bloc state management demo | [Blog post](https://medium.com/@naveen11695/working-with-cubits-and-hydrated-cubits-517dc9a65726) |
 | [**Motion-layout-Sample**](https://github.com/Naveen11695/Motion-layout-Sample) | MotionLayout animation demos | ⭐ 2 · `Kotlin` `Android` |
-| [**bhukkd**](https://github.com/Naveen11695/bhukkd) | Food & restaurant discovery app | ⭐ 3 · `Flutter` `Dart` |
 
 <br/>
 
