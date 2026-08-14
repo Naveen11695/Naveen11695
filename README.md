@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,react,firebase,docker,git&theme=dark&perline=8" alt="Tech skills icons" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,react,firebase,docker,git&theme=dark&perline=8" alt="Tech skills icons" />
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=24,58A6FF,1a1b27&height=100&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&animation=twinkling" alt="About Me section" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=110&section=header&text=About%20Me&fontSize=24&fontColor=ffffff&animation=twinkling" alt="About Me section" />
 
 ### 👨‍💻 About Me
 
@@ -150,17 +150,17 @@ writing: medium.com/@naveen11695
 
 ### 💼 Career Journey
 
-```mermaid
-timeline
-    title My Professional Path
-    2017 : Android Developer @ Agnos
-    2020 : Software Engineer @ TO THE NEW
-    2022 : Senior Software Engineer @ TO THE NEW
-         : Tabcorp TAB · Tata Sky OTT
-    2024 : Kometa Open Source · Homelab
-         : Medium Technical Writing
-```
+<div align="center">
 
+<img src="https://img.shields.io/badge/2017-Android_Dev_%40_Agnos-3DDC84?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/2019-Android_Certified-7F52FF?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/2020-TO_THE_NEW-58A6FF?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/2022-Senior_Engineer-FFD700?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/Now-TAB_%C2%B7_Kometa_%C2%B7_Homelab-00C853?style=for-the-badge&labelColor=1a1b27" />
+
+</div>
+
+<br/>
 | Role | Company | Period |
 | :--- | :--- | :--- |
 | **Senior Software Engineer** | [TO THE NEW](https://www.linkedin.com/company/tothenew) | Oct 2022 – Present |
@@ -195,7 +195,7 @@ timeline
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=sliced&color=gradient&customColorList=24,58A6FF,1a1b27&height=90&section=header&text=Tech%20Stack&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Tech stack section" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=110&section=header&text=Tech%20Stack&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Tech stack section" />
 
 ### 🛠️ Tech Stack
 
@@ -203,13 +203,13 @@ timeline
 
 **Mobile**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,react,firebase&theme=dark&perline=6" alt="Mobile stack" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,react,firebase&theme=dark&perline=6" alt="Mobile stack" />
 
 <br/>
 
 **Infra & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,git,linux,yaml,github&theme=dark&perline=5" alt="Infra stack" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,github&theme=dark&perline=4" alt="Infra stack" />
 
 </div>
 
