@@ -110,9 +110,12 @@ writing: medium.com/@naveen11695
 
 <img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark&perline=3" alt="Homelab tools" />
 
+<br/>
+
 <img src="https://img.shields.io/badge/Synology-NAS-B5B5B6?style=for-the-badge&logo=synology&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Plex-Media-E5A00D?style=for-the-badge&logo=plex&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/Pi--hole-DNS-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" />
 <img src="https://img.shields.io/badge/Twingate-VPN-00B4D8?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Kometa-Overlays-58A6FF?style=for-the-badge" />
