@@ -38,43 +38,33 @@ writing: medium.com/@naveen11695
 <td width="50%" valign="top">
 
 **🚀 Builder**
-- Enterprise Flutter & Android at scale
-- Tabcorp TAB · Australia's #1 wagering app
+- Senior Software Engineer at [TO THE NEW](https://www.linkedin.com/company/tothenew)
+- Core Flutter developer on [Tabcorp TAB](https://www.tabcorp.com.au)
 - Tata Sky OTT · 10L+ users · 450+ channels
+- 4× Star Performer · TO THE NEW Mobility Meet
 
 </td>
 <td width="50%" valign="top">
 
 **🌙 Explorer**
-- Synology homelab · Docker · Pi-hole
-- Kometa Plex overlay pipeline maintainer
-- Technical writer on Medium
+- [Kometa maintainer](https://github.com/Naveen11695/kometa-overlay-stack) — Plex overlay automation
+- Synology homelab · Docker · Pi-hole · Twingate
+- Technical writer on [Medium](https://medium.com/@naveen11695)
 
 </td>
 </tr>
-</table>
-
-- 💼 **Senior Software Engineer** at [TO THE NEW](https://www.linkedin.com/company/tothenew)
-- 🏢 **Core Flutter developer** on [Tabcorp's TAB platform](https://www.tabcorp.com.au) — sports betting & wagering at scale
-- 🎬 **Kometa maintainer** — open-source Plex automation ([kometa-overlay-stack](https://github.com/Naveen11695/kometa-overlay-stack))
-- ✍️ **Technical writer** — Flutter, mobile security & homelab on [Medium](https://medium.com/@naveen11695)
-- 🏆 **Star Performer** — 4× TO THE NEW Mobility Competency Meet (2020–2023)
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
-### 💡 What I Bring
-
-- **Enterprise mobile** — millions of users across TAB & Tata Sky OTT
-- **Clean Architecture** — BLoC, GetX, MVVM, modular UI
-- **CI/CD pipelines** — BuildKite, Agile delivery at scale
+**💡 What I Bring**
+- Enterprise mobile at scale — millions of users
+- Clean Architecture · BLoC · GetX · MVVM
+- CI/CD pipelines · BuildKite · Agile delivery
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Currently Focused On
-
+**🎯 Currently Focused On**
 - Production Flutter for **Tabcorp TAB**
 - **Kometa overlay ecosystem** — configs, assets & Docker stack
 - **Synology homelab** — media, networking & automation
