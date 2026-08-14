@@ -4,22 +4,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=120&lines=Senior+Software+Engineer+%40+TO+THE+NEW;Flutter+%C2%B7+Android+%C2%B7+React+Native;Homelab+%C2%B7+Kometa+%C2%B7+Medium+Writer" alt="Typing animation" />
 
-<br/>
-
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,react,firebase,docker,git&theme=dark&perline=8" alt="Tech skills icons" />
-
-<br/>
 
 <img src="https://img.shields.io/badge/5%2B_Years-Experience-58A6FF?style=for-the-badge&labelColor=1a1b27" />
 <img src="https://img.shields.io/badge/Enterprise-Mobile-7F52FF?style=for-the-badge&labelColor=1a1b27" />
 <img src="https://img.shields.io/badge/4%C3%97_Star_Performer-FFD700?style=for-the-badge&labelColor=1a1b27" />
 <img src="https://img.shields.io/badge/Millions_of_Users-00C853?style=for-the-badge&labelColor=1a1b27" />
 
-<br/><br/>
-
 *Enterprise mobile by day · Homelab & Kometa by night*
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-verma-359a78127/)
 [![Medium](https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naveen11695)
@@ -67,8 +59,6 @@ writing: medium.com/@naveen11695
 - ✍️ **Technical writer** — Flutter, mobile security & homelab on [Medium](https://medium.com/@naveen11695)
 - 🏆 **Star Performer** — 4× TO THE NEW Mobility Competency Meet (2020–2023)
 
-<br/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -93,8 +83,6 @@ writing: medium.com/@naveen11695
 </tr>
 </table>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=header&text=Enterprise%20Highlights&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Enterprise section" />
 
 ### 🏢 Enterprise Highlights
@@ -106,14 +94,10 @@ writing: medium.com/@naveen11695
 
 </div>
 
-<br/>
-
 | Project | Client | Impact | Stack |
 | :--- | :--- | :--- | :--- |
 | **TAB Mobile App** | [Tabcorp](https://www.tabcorp.com.au) | Australia's leading wagering & gaming platform | `Flutter` `Dart` `BLoC` `Clean Architecture` `CI/CD` |
 | **Tata Sky OTT App** | Tata Sky | 10L+ users · 450+ live channels | `Kotlin` `Java` `Firebase` `MVVM` `Retrofit` |
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5A00D,50:2496ED,100:B5B5B6&height=110&section=header&text=Homelab%20%C2%B7%20Kometa&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Homelab section" />
 
@@ -121,9 +105,7 @@ writing: medium.com/@naveen11695
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark&perline=6" alt="Homelab tools" />
-
-<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,linux&theme=dark&perline=3" alt="Homelab tools" />
 
 <img src="https://img.shields.io/badge/Synology-NAS-B5B5B6?style=for-the-badge&logo=synology&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -134,8 +116,6 @@ writing: medium.com/@naveen11695
 
 </div>
 
-<br/>
-
 **End-to-end Plex overlay pipeline** — posterizarr → UMTK → animetafill → Kometa → imageMaid
 
 | Repo | Description |
@@ -144,44 +124,57 @@ writing: medium.com/@naveen11695
 | [![kometa-overlay-configs](https://img.shields.io/badge/kometa--overlay--configs-YAML_Configs-7F52FF?style=for-the-badge&logo=yaml&logoColor=white)](https://github.com/Naveen11695/kometa-overlay-configs) | Overlay configuration files |
 | [![kometa-overlay-assets](https://img.shields.io/badge/kometa--overlay--assets-Image_Assets-E5A00D?style=for-the-badge&logo=plex&logoColor=white)](https://github.com/Naveen11695/kometa-overlay-assets) | Custom overlay images for Plex |
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7F52FF&height=110&section=header&text=Experience%20%C2%B7%20Credentials&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Experience section" />
 
 ### 💼 Career Journey
 
-<div align="center">
+<table align="center">
+<tr>
+<td><img src="https://img.shields.io/badge/2017-Android_Dev_%40_Agnos-3DDC84?style=for-the-badge&labelColor=1a1b27" /></td>
+<td><img src="https://img.shields.io/badge/2019-Android_Certified-7F52FF?style=for-the-badge&labelColor=1a1b27" /></td>
+<td><img src="https://img.shields.io/badge/2020-TO_THE_NEW-58A6FF?style=for-the-badge&labelColor=1a1b27" /></td>
+<td><img src="https://img.shields.io/badge/2022-Senior_Engineer-FFD700?style=for-the-badge&labelColor=1a1b27" /></td>
+<td><img src="https://img.shields.io/badge/Now-TAB_%C2%B7_Kometa_%C2%B7_Homelab-00C853?style=for-the-badge&labelColor=1a1b27" /></td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/2017-Android_Dev_%40_Agnos-3DDC84?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/2019-Android_Certified-7F52FF?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/2020-TO_THE_NEW-58A6FF?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/2022-Senior_Engineer-FFD700?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Now-TAB_%C2%B7_Kometa_%C2%B7_Homelab-00C853?style=for-the-badge&labelColor=1a1b27" />
-
-</div>
-
-| Role | Company | Period |
-| :--- | :--- | :--- |
-| **Senior Software Engineer** | [TO THE NEW](https://www.linkedin.com/company/tothenew) | Oct 2022 – Present |
-| **Software Engineer** | [TO THE NEW](https://www.linkedin.com/company/tothenew) | Dec 2020 – Nov 2022 |
-| **Android Developer** (Part-time) | Agnos Developers | Sep 2017 – Jan 2019 |
-
-<br/>
+<table align="center">
+<tr>
+<th>Role</th>
+<th>Company</th>
+<th>Period</th>
+</tr>
+<tr>
+<td><strong>Senior Software Engineer</strong></td>
+<td><a href="https://www.linkedin.com/company/tothenew">TO THE NEW</a></td>
+<td>Oct 2022 – Present</td>
+</tr>
+<tr>
+<td><strong>Software Engineer</strong></td>
+<td><a href="https://www.linkedin.com/company/tothenew">TO THE NEW</a></td>
+<td>Dec 2020 – Nov 2022</td>
+</tr>
+<tr>
+<td><strong>Android Developer</strong> (Part-time)</td>
+<td>Agnos Developers</td>
+<td>Sep 2017 – Jan 2019</td>
+</tr>
+</table>
 
 ### 📜 Certifications
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google_AI-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Coding-Coursera_2026-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-Bootcamp_Udemy_2021-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Technical_2020-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-Certified_2019-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-Xperia_2016-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-
-</div>
-
-<br/>
+<table align="center">
+<tr>
+<td><img src="https://img.shields.io/badge/Google_AI-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white" /></td>
+<td><img src="https://img.shields.io/badge/AI_Coding-Coursera_2026-0056D2?style=for-the-badge&logo=coursera&logoColor=white" /></td>
+<td><img src="https://img.shields.io/badge/Flutter-Bootcamp_Udemy_2021-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/AWS-Technical_2020-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></td>
+<td><img src="https://img.shields.io/badge/Flutter-Certified_2019-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></td>
+<td><img src="https://img.shields.io/badge/Android-Xperia_2016-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></td>
+</tr>
+</table>
 
 ### 🏅 Honors & Awards
 
@@ -191,8 +184,6 @@ writing: medium.com/@naveen11695
 <img src="https://img.shields.io/badge/Hackathon-2nd_Runner_Up_2018-C0C0C0?style=for-the-badge" />
 
 </div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=110&section=header&text=Tech%20Stack&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Tech stack section" />
 
@@ -204,15 +195,11 @@ writing: medium.com/@naveen11695
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,react,firebase&theme=dark&perline=6" alt="Mobile stack" />
 
-<br/>
-
 **Infra & Tools**
 
 <img src="https://skillicons.dev/icons?i=docker,git,linux,github&theme=dark&perline=4" alt="Infra stack" />
 
 </div>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=90&section=header&text=Open%20Source&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Open source section" />
 
@@ -224,8 +211,6 @@ writing: medium.com/@naveen11695
 | [![ToDo](https://img.shields.io/badge/ToDo--App-Cubit_Demo-7F52FF?style=flat-square&logo=flutter&logoColor=white)](https://github.com/Naveen11695/ToDo-App) | Cubit & Hydrated Bloc state management | [Blog post](https://medium.com/@naveen11695/working-with-cubits-and-hydrated-cubits-517dc9a65726) |
 | [![Motion](https://img.shields.io/badge/Motion--layout--Sample-⭐_2-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/Naveen11695/Motion-layout-Sample) | MotionLayout animation demos | `Kotlin` `Android` |
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12100E,100:000000&height=110&section=header&text=Medium%20Blogs&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Medium section" />
 
 ### ✍️ Medium Blogs
@@ -235,8 +220,6 @@ writing: medium.com/@naveen11695
 [![Medium](https://img.shields.io/badge/Read_all_articles_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naveen11695)
 
 </div>
-
-<br/>
 
 #### 📱 Flutter & Mobile
 
@@ -258,23 +241,15 @@ writing: medium.com/@naveen11695
 
 - [Safeguarding Your Mobile Apps in a Digital-First World](https://www.tothenew.com/blog/application-security/)
 
-<br/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:58A6FF,100:1f6feb&height=150&section=footer&text=Let%27s%20Connect!&fontSize=28&fontColor=ffffff&animation=scaleIn" alt="Connect footer" />
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-verma-359a78127/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naveen11695)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveen11695)
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=shark&color=0:58A6FF,100:0d1117&height=130&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=22&fontColor=ffffff" alt="Footer wave" />
-
-<br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Naveen11695&color=58a6ff&style=for-the-badge&labelColor=1a1b27)
 
